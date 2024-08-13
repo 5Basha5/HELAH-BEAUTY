@@ -52,7 +52,6 @@ section .section-header{
 }
 section .section-header h3{
 	font-size: 22px;
-	letter-spacing: 2px;
 	color: var(--primary-clr);
 }
 section .section-header h1{
@@ -145,7 +144,6 @@ section.home{
 	color: var(--light-secondary-heading-clr);
 	font-size: 14px;
 	text-transform: uppercase;
-	letter-spacing: 1px;
 	transition: all 0.3s;
 }
 .main-navbar .nav-list li a:hover{
@@ -300,7 +298,6 @@ section.about{
 .about-contents .about-right-col h4{
 	font-size: 18px;
 	color: var(--primary-clr);
-	letter-spacing: 3px;
 	text-transform: uppercase;
 }
 .about-contents .about-right-col h1{
@@ -430,7 +427,6 @@ section.offer{
 	text-transform: uppercase;
 	color: var(--light-heading-clr);
 	text-align: center;
-	letter-spacing: 1px;
 }
 .offer .offer-contents span{
 	margin: 10px 0px;
@@ -441,7 +437,6 @@ section.offer{
 .offer .offer-contents h3{
 	font-size: 24px;
 	text-transform: uppercase;
-	letter-spacing: 2px;
 	color: var(--light-heading-clr);
 }
 .offer .offer-contents .start-training-btn{
@@ -567,7 +562,6 @@ section.pricing{
 	font-size: 24px;
 	color: var(--light-heading-clr);
 	text-transform: uppercase;
-	letter-spacing: 1px;
 	position: relative;
 	top: 30px;
 }
@@ -807,7 +801,6 @@ section.blog{
 	text-decoration: none;
 	font-size: 16px;
 	color: var(--light-text-clr);
-	letter-spacing: 1px;
 	margin-bottom: 17px;
 	transition: 0.3s;
 }
@@ -904,7 +897,6 @@ section.blog{
 	}
 	.main-navbar .nav-list li a{
 		font-size: 18px;
-		letter-spacing: 2px;
 	}
 	.home .main-navbar .join-us-btn-wrapper{
 		margin-left: auto;
